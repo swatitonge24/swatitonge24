@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swati Tonge
   
 - 🌱 I’m currently Working on Vite,Reactjs,javascript,mysql
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with an organization to contribute my knowledge.
 - 📫 How to reach me ...swatitonge24@gmail.com
 - All my projects are available at https://developerswatiportfolio.netlify.app/
 - 
