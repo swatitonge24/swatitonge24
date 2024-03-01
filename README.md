@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Swati Tonge
+                                                Hi,👋 I’m Swati Tonge
   
-- 🌱 I’m currently Working on HTML,Tailind Css,Vite,Reactjs,javascript,mysql,PHP
-- 💞️ I’m looking to collaborate with an organization to contribute my knowledge.
-- 📫 How to reach me ...swatitonge24@gmail.com
-- All my projects are available at https://swatitongeportfolio.netlify.app/
+                            🌱 I’m currently Working on HTML,Tailind Css,Vite,Reactjs,javascript,mysql,PHP
+                                💞️ I’m looking to collaborate with an organization to contribute my knowledge.                              
+                                  📫 How to reach me ... swatitonge24@gmail.com
+                            All my projects are available at https://swatitongeportfolio.netlify.app/
   
   
 
